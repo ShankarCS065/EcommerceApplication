@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\item_list_layout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\item_list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_add_product.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\item_address_layout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\item_address_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\fragment_products.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_add_edit_address.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_add_edit_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\dialog_progress.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_product_details.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_cart_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_cart_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_address_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\fragment_orders.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\item_dashboard_layout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\item_dashboard_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\item_cart_layout.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\item_cart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\fragment_base.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\fragment_sold_products.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\fragment_sold_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_sold_product_details.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_sold_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-mergeDebugResources-75:\\layout\\activity_my_order_details.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.krashkrosh748199.shoption.app-main-78:\\layout\\activity_my_order_details.xml"
+    },
+    {
+        "merged": "com.krashkrosh748199.shoption.app-mergeDebugResources-75:/layout/activity_sold_product_details.xml",
+        "source": "com.krashkrosh748199.shoption.app-main-78:/layout/activity_sold_product_details.xml"
+    }
+]

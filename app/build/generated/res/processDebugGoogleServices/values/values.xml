@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://shoption-36edc-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">689536523043</string>
+    <string name="google_api_key" translatable="false">AIzaSyC7FY8kGquBdkOAQZjhgC4ZEMM-oUUB4sk</string>
+    <string name="google_app_id" translatable="false">1:689536523043:android:a102549f988eab8dd0ca96</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7FY8kGquBdkOAQZjhgC4ZEMM-oUUB4sk</string>
+    <string name="google_storage_bucket" translatable="false">shoption-36edc.appspot.com</string>
+    <string name="project_id" translatable="false">shoption-36edc</string>
+</resources>
