@@ -65,7 +65,7 @@
     <dimen name="settings_button_marginTopBottom">16dp</dimen>
     <!--END-->
 
-    <dimen name="add_product_header_image_height">250dp</dimen>
+    <dimen name="add_product_header_image_height">400dp</dimen>
     <dimen name="add_update_product_icon_padding">16dp</dimen>
 
     <dimen name="no_data_found_textSize">20sp</dimen>
@@ -82,7 +82,7 @@
 
     <dimen name="item_dashboard_margin">5dp</dimen>
     <dimen name="item_dashboard_padding">1dp</dimen>
-    <dimen name="item_dashboard_image_height">150dp</dimen>
+    <dimen name="item_dashboard_image_height">200dp</dimen>
     <dimen name="item_dashboard_image_margin">10dp</dimen>
     <dimen name="divider_height">1dp</dimen>
     <dimen name="dashboard_item_paddingStartEnd">10dp</dimen>
